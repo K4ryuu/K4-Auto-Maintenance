@@ -7,6 +7,9 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/K4ryuu/K4-Auto-Maintenance/total?style=for-the-badge)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/K4ryuu/K4-Auto-Maintenance/dev?style=for-the-badge)
 
+> [!WARNING]  
+> This plugin has been merged into my [CS2-Egg](https://github.com/K4ryuu/CS2-Egg) with Shell, so it's uncontinued.
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
